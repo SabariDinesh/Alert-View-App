@@ -1,0 +1,6 @@
+framework module UEMPodLibrary {
+  umbrella header "UEMPodLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

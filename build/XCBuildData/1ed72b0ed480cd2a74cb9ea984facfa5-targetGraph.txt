@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+UEMViewPod in Pods, no dependencies
+Pods-AlertViewApp in Pods, depends on:
+UEMViewPod in Pods (explicit)

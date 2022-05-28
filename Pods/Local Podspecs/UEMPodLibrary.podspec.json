@@ -1,0 +1,22 @@
+{
+  "name": "UEMPodLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of UEMPodLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sabaridinesh.kp/UEMPodLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sabaridinesh.kp": "sabaridinesh.ec18@bitsathy.ac.in"
+  },
+  "source": {
+    "git": "/Users/sabari-pt4418/Desktop/UEMPodLibrary",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UEMPodLibrary/Classes/**/*"
+}

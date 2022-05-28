@@ -1,0 +1,49 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9846b738a828446584bdd98122ac1807ea"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984c8619f412d2389f529311ca82340692"
+    }
+  ],
+  "containerPath" : "/Users/sabari-pt4418/Desktop/AlertViewApp/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/sabari-pt4418/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sabari-pt4418/Library/Developer/Xcode/DerivedData/Pods-eswoeeoqrfiukbfteyhekeltelhk/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sabari-pt4418/Library/Developer/Xcode/DerivedData/Pods-eswoeeoqrfiukbfteyhekeltelhk/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

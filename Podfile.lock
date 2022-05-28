@@ -1,0 +1,23 @@
+PODS:
+  - SCLAlertView (0.8)
+  - UEMPodLibrary (0.1.0)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - UEMPodLibrary (from `/Users/sabari-pt4418/Desktop/UEMPodLibrary`)
+
+SPEC REPOS:
+  trunk:
+    - SCLAlertView
+
+EXTERNAL SOURCES:
+  UEMPodLibrary:
+    :path: "/Users/sabari-pt4418/Desktop/UEMPodLibrary"
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  UEMPodLibrary: 82601e6c962fe0936a44c4d0dc49f99238ab0c33
+
+PODFILE CHECKSUM: 9aabcbc68a08b4807ce2df0e18b92ec7b912a680
+
+COCOAPODS: 1.11.3
